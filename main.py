@@ -1,5 +1,5 @@
-def foo():
+def fun():
     pass
 
-def fun():
-    ...
+def foo():
+    pass
